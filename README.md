@@ -1,7 +1,7 @@
 # Binding
 Binding drug to protein
 
-Drug
+Drug:
 Paste your ligand in SMILES format 
 i.e. for  Hydroxychloroquine SMILE format is: Clc1cc2nccc(c2cc1)NC(C)CCCN(CC)CCO
 
