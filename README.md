@@ -1,4 +1,4 @@
-# binding
+# Binding
 Binding drug to protein
 
 Drug
